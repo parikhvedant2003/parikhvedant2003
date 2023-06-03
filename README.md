@@ -14,7 +14,7 @@ To gain knowledge and hone my talents, I have worked on numerous projects.</h3>
 
 - 👯 I’m looking to collaborate on **OpenSource Projects from the field of Machine Learning, Artificial Intelligence and Natural Language Processing.**
 
-- 👨‍💻 All of my Activity are available at **[My Portfolio](https://jeet-portfolio.netlify.app/)**
+<!-- - 👨‍💻 All of my Activity are available at **[My Portfolio](https://jeet-portfolio.netlify.app/)** -->
 
 - 📫 How to reach me **parikhvedant2003@gmail.com**
 
