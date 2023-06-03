@@ -20,8 +20,6 @@ To gain knowledge and hone my talents, I have worked on numerous projects.</h3>
 
 - ⚡ Fun fact **Beware of Me 😉**
 
-<br><br>
-
 ## Connect with me:
 <p align="left">
 
