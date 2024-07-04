@@ -1,8 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Vedant</h1>
-<h3 align="center">I study Computer Engineering. I have a strong desire to learn new things, and I consider myself to be
-an excellent communicator, strategist, and person who is committed to carrying out his obligations.
+<h3 align="center">I am B.Tech Graduate in Computer Engineering from <a href="https://ddu.ac.in/">Dharmsinh Desai University, Nadiad</a>. I have a strong desire to learn new things, and I consider myself as an excellent communicator, strategist and a person who is committed to carrying out his obligations.
 To gain knowledge and hone my talents, I have worked on numerous projects.</h3>
 
 
@@ -23,6 +22,7 @@ To gain knowledge and hone my talents, I have worked on numerous projects.</h3>
 ## Connect with me:
 <p align="left">
 
+<a href = "https://leetcode.com/u/parikhvedant2003/" target="_blank"><img src="https://img.icons8.com/?size=100&id=fiCYSJOnXi7E&format=png&color=000000"/></a>
 <a href = "https://www.linkedin.com/in/parikhvedant2003/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ParikhVedant2K3" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/parikhvedant2003/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
