@@ -60,7 +60,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" height="45" alt="Postman" />
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
@@ -88,12 +87,12 @@
 
 ---
 
-## ❤️ Profile Views and Followers
+## ❤️ Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parikhvedant2003&label=Profile%20views&color=0e75b6&style=plastic" alt="vedant-parikh" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,7&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,7&height=200&section=footer" />
 </p>
