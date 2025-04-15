@@ -79,8 +79,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parikhvedant2003&theme=radical&hide_border=true" />
-  <br><br>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parikhvedant2003&theme=radical&hide_border=true" /> -->
+<!--   <br><br> -->
   <img src="https://github-readme-stats.vercel.app/api?username=parikhvedant2003&show_icons=true&theme=radical&hide_border=true" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parikhvedant2003&layout=compact&theme=radical&hide_border=true" />
